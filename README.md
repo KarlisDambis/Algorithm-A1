@@ -14,5 +14,4 @@ Traverses the array from len(a)-i-1
 ##   a[j], a[j+1] = a[j+1], a[j]
 Finds decimal value of charactars in ASCII table and checks if the decimal value is greater then the letter value to the right.
 
-## return a
-Basically makes a loop till everything is sorted.
+
