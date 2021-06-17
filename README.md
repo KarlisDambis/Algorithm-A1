@@ -1,7 +1,9 @@
 # Algorithm-A1
 ## BubbleSort Algorithm takes in 2 pair of numbers and sorts them if they are not in the right order. This happens till there is no elements left to sort.
 
+'''
 a = list(word)
+'''
 list(word) is going to convert the string into array of letters
 
  for i in range(len(a)):
